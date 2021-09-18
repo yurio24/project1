@@ -11409,12 +11409,12 @@ section {
   height: 100%;
 }
 
+
 section.cta {
-  position: relative;
   padding: 15rem 0;
-  background-image: url("https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Version_1.3_Livestream_Illustration.jpg/revision/latest/scale-to-width-down/1000?cb=20210129165630");
-  background-position: center;
-  background-size: cover;
+    background-image: url(https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Version_1.3_Livestream_Illustration.jpg/revision/latest/scale-to-width-down/1000?cb=20210129165630);
+    background-position: center;
+    background-size: cover;
 }
 section.cta .cta-content {
   position: relative;
