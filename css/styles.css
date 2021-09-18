@@ -11411,8 +11411,9 @@ section {
 
 
 section.cta {
-  padding: 15rem 0;
-    background-image: url(https://static.wikia.nocookie.net/gensin-impact/images/b/b2/Version_1.3_Livestream_Illustration.jpg/revision/latest/scale-to-width-down/1000?cb=20210129165630);
+  position: relative;
+    padding: 15rem 0;
+    background-image: url(https://images.alphacoders.com/112/1127879.jpg);
     background-position: center;
     background-size: cover;
 }
